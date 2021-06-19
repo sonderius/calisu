@@ -1,0 +1,5 @@
+<?php
+echo $argv[1];
+echo "=";
+echo base_convert($argv[1],$argv[2],$argv[3]);
+?>
