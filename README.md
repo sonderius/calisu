@@ -1,6 +1,6 @@
 # Calisu 
 -calculator napomocný pri programovaní na strojovj urovni
-Jméno a příjmení: Ľubomír Závodský
+
 # Použitií
 ```sh
 callisu.php [options]
@@ -9,3 +9,4 @@ callisu.php [options]
     --number=x zvolit číslo na prevod do ostatnych sustav  
     --desiatkova  na vstupe je čislo v 10 sustave 
 ```
+Jméno a příjmení: Ľubomír Závodský
