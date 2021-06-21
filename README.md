@@ -1,4 +1,5 @@
-# calisu -calculator napomocný pri programovaní na strojovj urovni
+# calisu 
+-calculator napomocný pri programovaní na strojovj urovni
 Jméno a příjmení: Ľubomír Závodský
 # Použitií
 ```sh
