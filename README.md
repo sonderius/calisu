@@ -1,4 +1,4 @@
-# calisu 
+# Calisu 
 -calculator napomocný pri programovaní na strojovj urovni
 Jméno a příjmení: Ľubomír Závodský
 # Použitií
